@@ -1,2 +1,3 @@
-##Day 2
-Learned how to push code to GITHUB
+#progress tracker
+Day 1: Learned Git basic
+Day 2:Learned Git push
